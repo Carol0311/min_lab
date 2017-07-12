@@ -1,0 +1,23 @@
+/**index.wxss**/
+.container{
+ padding: 0px 0px;
+}
+.totalContent {
+background-image:url("http://minlab-1253990000.coscd.myqcloud.com/room.jpg");
+background-size:100% 200px;
+background-repeat:no-repeat;
+height:200px;
+width:100%;
+}
+video{
+  width:50%;
+  margin:15px;
+  height:150px;
+}
+.videoName {
+display:inline-block;
+width:30%;
+position:relative;
+right:-15px;
+bottom:60px;
+}

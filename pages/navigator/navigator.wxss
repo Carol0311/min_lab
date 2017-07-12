@@ -1,0 +1,12 @@
+video{
+  height:130px;
+  width:50%;
+  margin-top:3px;
+}
+.videoName{
+  display:inline-block;
+  width:45%;
+  position:relative;
+  right:-15px;
+  bottom: 35px;
+}

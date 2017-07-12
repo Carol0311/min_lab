@@ -1,0 +1,133 @@
+[0705/203707:ERROR:proxy_service_factory.cc(105)] Cannot use V8 Proxy resolver in single process mode.
+[0705/203708:ERROR:command_buffer_proxy_impl.cc(156)] Failed to initialize command buffer service.
+[0705/203708:ERROR:webgraphicscontext3d_command_buffer_impl.cc(394)] CommandBufferProxy::Initialize failed.
+[0705/203708:ERROR:webgraphicscontext3d_command_buffer_impl.cc(413)] Failed to initialize command buffer.
+[0705/203708:ERROR:command_buffer_proxy_impl.cc(156)] Failed to initialize command buffer service.
+[0705/203708:ERROR:webgraphicscontext3d_command_buffer_impl.cc(394)] CommandBufferProxy::Initialize failed.
+[0705/203708:ERROR:webgraphicscontext3d_command_buffer_impl.cc(413)] Failed to initialize command buffer.
+[0705/203708:ERROR:command_buffer_proxy_impl.cc(156)] Failed to initialize command buffer service.
+[0705/203708:ERROR:webgraphicscontext3d_command_buffer_impl.cc(394)] CommandBufferProxy::Initialize failed.
+[0705/203708:ERROR:webgraphicscontext3d_command_buffer_impl.cc(413)] Failed to initialize command buffer.
+[0705/203708:ERROR:command_buffer_proxy_impl.cc(156)] Failed to initialize command buffer service.
+[0705/203708:ERROR:webgraphicscontext3d_command_buffer_impl.cc(394)] CommandBufferProxy::Initialize failed.
+[0705/203708:ERROR:webgraphicscontext3d_command_buffer_impl.cc(413)] Failed to initialize command buffer.
+[0705/203708:ERROR:command_buffer_proxy_impl.cc(156)] Failed to initialize command buffer service.
+[0705/203708:ERROR:webgraphicscontext3d_command_buffer_impl.cc(394)] CommandBufferProxy::Initialize failed.
+[0705/203708:ERROR:webgraphicscontext3d_command_buffer_impl.cc(413)] Failed to initialize command buffer.
+[0705/203708:ERROR:command_buffer_proxy_impl.cc(156)] Failed to initialize command buffer service.
+[0705/203708:ERROR:webgraphicscontext3d_command_buffer_impl.cc(394)] CommandBufferProxy::Initialize failed.
+[0705/203708:ERROR:webgraphicscontext3d_command_buffer_impl.cc(413)] Failed to initialize command buffer.
+[0705/203708:ERROR:command_buffer_proxy_impl.cc(156)] Failed to initialize command buffer service.
+[0705/203708:ERROR:webgraphicscontext3d_command_buffer_impl.cc(394)] CommandBufferProxy::Initialize failed.
+[0705/203708:ERROR:webgraphicscontext3d_command_buffer_impl.cc(413)] Failed to initialize command buffer.
+[0705/203708:ERROR:command_buffer_proxy_impl.cc(156)] Failed to initialize command buffer service.
+[0705/203708:ERROR:webgraphicscontext3d_command_buffer_impl.cc(394)] CommandBufferProxy::Initialize failed.
+[0705/203708:ERROR:webgraphicscontext3d_command_buffer_impl.cc(413)] Failed to initialize command buffer.
+[0705/203728:ERROR:renderer_main.cc(227)] Running without renderer sandbox
+[0705/203739:ERROR:proxy_service_factory.cc(105)] Cannot use V8 Proxy resolver in single process mode.
+[0705/203739:ERROR:command_buffer_proxy_impl.cc(156)] Failed to initialize command buffer service.
+[0705/203739:ERROR:webgraphicscontext3d_command_buffer_impl.cc(394)] CommandBufferProxy::Initialize failed.
+[0705/203739:ERROR:webgraphicscontext3d_command_buffer_impl.cc(413)] Failed to initialize command buffer.
+[0705/203739:ERROR:command_buffer_proxy_impl.cc(156)] Failed to initialize command buffer service.
+[0705/203739:ERROR:webgraphicscontext3d_command_buffer_impl.cc(394)] CommandBufferProxy::Initialize failed.
+[0705/203739:ERROR:webgraphicscontext3d_command_buffer_impl.cc(413)] Failed to initialize command buffer.
+[0705/203739:ERROR:command_buffer_proxy_impl.cc(156)] Failed to initialize command buffer service.
+[0705/203739:ERROR:webgraphicscontext3d_command_buffer_impl.cc(394)] CommandBufferProxy::Initialize failed.
+[0705/203739:ERROR:webgraphicscontext3d_command_buffer_impl.cc(413)] Failed to initialize command buffer.
+[0705/203739:ERROR:command_buffer_proxy_impl.cc(156)] Failed to initialize command buffer service.
+[0705/203739:ERROR:webgraphicscontext3d_command_buffer_impl.cc(394)] CommandBufferProxy::Initialize failed.
+[0705/203739:ERROR:webgraphicscontext3d_command_buffer_impl.cc(413)] Failed to initialize command buffer.
+[0705/203739:ERROR:command_buffer_proxy_impl.cc(156)] Failed to initialize command buffer service.
+[0705/203739:ERROR:webgraphicscontext3d_command_buffer_impl.cc(394)] CommandBufferProxy::Initialize failed.
+[0705/203739:ERROR:webgraphicscontext3d_command_buffer_impl.cc(413)] Failed to initialize command buffer.
+[0705/203739:ERROR:command_buffer_proxy_impl.cc(156)] Failed to initialize command buffer service.
+[0705/203739:ERROR:webgraphicscontext3d_command_buffer_impl.cc(394)] CommandBufferProxy::Initialize failed.
+[0705/203739:ERROR:webgraphicscontext3d_command_buffer_impl.cc(413)] Failed to initialize command buffer.
+[0705/203739:ERROR:command_buffer_proxy_impl.cc(156)] Failed to initialize command buffer service.
+[0705/203739:ERROR:webgraphicscontext3d_command_buffer_impl.cc(394)] CommandBufferProxy::Initialize failed.
+[0705/203739:ERROR:webgraphicscontext3d_command_buffer_impl.cc(413)] Failed to initialize command buffer.
+[0705/203739:ERROR:command_buffer_proxy_impl.cc(156)] Failed to initialize command buffer service.
+[0705/203739:ERROR:webgraphicscontext3d_command_buffer_impl.cc(394)] CommandBufferProxy::Initialize failed.
+[0705/203739:ERROR:webgraphicscontext3d_command_buffer_impl.cc(413)] Failed to initialize command buffer.
+[0705/203746:ERROR:renderer_main.cc(227)] Running without renderer sandbox
+[0705/203749:ERROR:proxy_service_factory.cc(105)] Cannot use V8 Proxy resolver in single process mode.
+[0705/203749:ERROR:command_buffer_proxy_impl.cc(156)] Failed to initialize command buffer service.
+[0705/203749:ERROR:webgraphicscontext3d_command_buffer_impl.cc(394)] CommandBufferProxy::Initialize failed.
+[0705/203749:ERROR:webgraphicscontext3d_command_buffer_impl.cc(413)] Failed to initialize command buffer.
+[0705/203749:ERROR:command_buffer_proxy_impl.cc(156)] Failed to initialize command buffer service.
+[0705/203749:ERROR:webgraphicscontext3d_command_buffer_impl.cc(394)] CommandBufferProxy::Initialize failed.
+[0705/203749:ERROR:webgraphicscontext3d_command_buffer_impl.cc(413)] Failed to initialize command buffer.
+[0705/203749:ERROR:command_buffer_proxy_impl.cc(156)] Failed to initialize command buffer service.
+[0705/203749:ERROR:webgraphicscontext3d_command_buffer_impl.cc(394)] CommandBufferProxy::Initialize failed.
+[0705/203749:ERROR:webgraphicscontext3d_command_buffer_impl.cc(413)] Failed to initialize command buffer.
+[0705/203749:ERROR:command_buffer_proxy_impl.cc(156)] Failed to initialize command buffer service.
+[0705/203749:ERROR:webgraphicscontext3d_command_buffer_impl.cc(394)] CommandBufferProxy::Initialize failed.
+[0705/203749:ERROR:webgraphicscontext3d_command_buffer_impl.cc(413)] Failed to initialize command buffer.
+[0705/203749:ERROR:command_buffer_proxy_impl.cc(156)] Failed to initialize command buffer service.
+[0705/203749:ERROR:webgraphicscontext3d_command_buffer_impl.cc(394)] CommandBufferProxy::Initialize failed.
+[0705/203749:ERROR:webgraphicscontext3d_command_buffer_impl.cc(413)] Failed to initialize command buffer.
+[0705/203749:ERROR:command_buffer_proxy_impl.cc(156)] Failed to initialize command buffer service.
+[0705/203749:ERROR:webgraphicscontext3d_command_buffer_impl.cc(394)] CommandBufferProxy::Initialize failed.
+[0705/203749:ERROR:webgraphicscontext3d_command_buffer_impl.cc(413)] Failed to initialize command buffer.
+[0705/203749:ERROR:command_buffer_proxy_impl.cc(156)] Failed to initialize command buffer service.
+[0705/203749:ERROR:webgraphicscontext3d_command_buffer_impl.cc(394)] CommandBufferProxy::Initialize failed.
+[0705/203749:ERROR:webgraphicscontext3d_command_buffer_impl.cc(413)] Failed to initialize command buffer.
+[0705/203749:ERROR:command_buffer_proxy_impl.cc(156)] Failed to initialize command buffer service.
+[0705/203749:ERROR:webgraphicscontext3d_command_buffer_impl.cc(394)] CommandBufferProxy::Initialize failed.
+[0705/203749:ERROR:webgraphicscontext3d_command_buffer_impl.cc(413)] Failed to initialize command buffer.
+[0705/203751:ERROR:ipc_channel_win.cc(132)] pipe error: 109
+[0705/203810:ERROR:proxy_service_factory.cc(105)] Cannot use V8 Proxy resolver in single process mode.
+[0705/203810:ERROR:command_buffer_proxy_impl.cc(156)] Failed to initialize command buffer service.
+[0705/203810:ERROR:webgraphicscontext3d_command_buffer_impl.cc(394)] CommandBufferProxy::Initialize failed.
+[0705/203810:ERROR:webgraphicscontext3d_command_buffer_impl.cc(413)] Failed to initialize command buffer.
+[0705/203810:ERROR:command_buffer_proxy_impl.cc(156)] Failed to initialize command buffer service.
+[0705/203810:ERROR:webgraphicscontext3d_command_buffer_impl.cc(394)] CommandBufferProxy::Initialize failed.
+[0705/203810:ERROR:webgraphicscontext3d_command_buffer_impl.cc(413)] Failed to initialize command buffer.
+[0705/203810:ERROR:command_buffer_proxy_impl.cc(156)] Failed to initialize command buffer service.
+[0705/203810:ERROR:webgraphicscontext3d_command_buffer_impl.cc(394)] CommandBufferProxy::Initialize failed.
+[0705/203810:ERROR:webgraphicscontext3d_command_buffer_impl.cc(413)] Failed to initialize command buffer.
+[0705/203810:ERROR:command_buffer_proxy_impl.cc(156)] Failed to initialize command buffer service.
+[0705/203810:ERROR:webgraphicscontext3d_command_buffer_impl.cc(394)] CommandBufferProxy::Initialize failed.
+[0705/203810:ERROR:webgraphicscontext3d_command_buffer_impl.cc(413)] Failed to initialize command buffer.
+[0705/203810:ERROR:command_buffer_proxy_impl.cc(156)] Failed to initialize command buffer service.
+[0705/203810:ERROR:webgraphicscontext3d_command_buffer_impl.cc(394)] CommandBufferProxy::Initialize failed.
+[0705/203810:ERROR:webgraphicscontext3d_command_buffer_impl.cc(413)] Failed to initialize command buffer.
+[0705/203810:ERROR:command_buffer_proxy_impl.cc(156)] Failed to initialize command buffer service.
+[0705/203810:ERROR:webgraphicscontext3d_command_buffer_impl.cc(394)] CommandBufferProxy::Initialize failed.
+[0705/203810:ERROR:webgraphicscontext3d_command_buffer_impl.cc(413)] Failed to initialize command buffer.
+[0705/203810:ERROR:command_buffer_proxy_impl.cc(156)] Failed to initialize command buffer service.
+[0705/203810:ERROR:webgraphicscontext3d_command_buffer_impl.cc(394)] CommandBufferProxy::Initialize failed.
+[0705/203810:ERROR:webgraphicscontext3d_command_buffer_impl.cc(413)] Failed to initialize command buffer.
+[0705/203810:ERROR:command_buffer_proxy_impl.cc(156)] Failed to initialize command buffer service.
+[0705/203810:ERROR:webgraphicscontext3d_command_buffer_impl.cc(394)] CommandBufferProxy::Initialize failed.
+[0705/203810:ERROR:webgraphicscontext3d_command_buffer_impl.cc(413)] Failed to initialize command buffer.
+[0705/203818:ERROR:renderer_main.cc(227)] Running without renderer sandbox
+[0705/203821:ERROR:proxy_service_factory.cc(105)] Cannot use V8 Proxy resolver in single process mode.
+[0705/203821:ERROR:proxy_service_factory.cc(105)] Cannot use V8 Proxy resolver in single process mode.
+[0705/203851:ERROR:ipc_channel_win.cc(405)] pipe error: 232
+[0705/204057:ERROR:proxy_service_factory.cc(105)] Cannot use V8 Proxy resolver in single process mode.
+[0705/204058:ERROR:command_buffer_proxy_impl.cc(156)] Failed to initialize command buffer service.
+[0705/204058:ERROR:webgraphicscontext3d_command_buffer_impl.cc(394)] CommandBufferProxy::Initialize failed.
+[0705/204058:ERROR:webgraphicscontext3d_command_buffer_impl.cc(413)] Failed to initialize command buffer.
+[0705/204058:ERROR:command_buffer_proxy_impl.cc(156)] Failed to initialize command buffer service.
+[0705/204058:ERROR:webgraphicscontext3d_command_buffer_impl.cc(394)] CommandBufferProxy::Initialize failed.
+[0705/204058:ERROR:webgraphicscontext3d_command_buffer_impl.cc(413)] Failed to initialize command buffer.
+[0705/204058:ERROR:command_buffer_proxy_impl.cc(156)] Failed to initialize command buffer service.
+[0705/204058:ERROR:webgraphicscontext3d_command_buffer_impl.cc(394)] CommandBufferProxy::Initialize failed.
+[0705/204058:ERROR:webgraphicscontext3d_command_buffer_impl.cc(413)] Failed to initialize command buffer.
+[0705/204058:ERROR:command_buffer_proxy_impl.cc(156)] Failed to initialize command buffer service.
+[0705/204058:ERROR:webgraphicscontext3d_command_buffer_impl.cc(394)] CommandBufferProxy::Initialize failed.
+[0705/204058:ERROR:webgraphicscontext3d_command_buffer_impl.cc(413)] Failed to initialize command buffer.
+[0705/204058:ERROR:command_buffer_proxy_impl.cc(156)] Failed to initialize command buffer service.
+[0705/204058:ERROR:webgraphicscontext3d_command_buffer_impl.cc(394)] CommandBufferProxy::Initialize failed.
+[0705/204058:ERROR:webgraphicscontext3d_command_buffer_impl.cc(413)] Failed to initialize command buffer.
+[0705/204058:ERROR:command_buffer_proxy_impl.cc(156)] Failed to initialize command buffer service.
+[0705/204058:ERROR:webgraphicscontext3d_command_buffer_impl.cc(394)] CommandBufferProxy::Initialize failed.
+[0705/204058:ERROR:webgraphicscontext3d_command_buffer_impl.cc(413)] Failed to initialize command buffer.
+[0705/204058:ERROR:command_buffer_proxy_impl.cc(156)] Failed to initialize command buffer service.
+[0705/204058:ERROR:webgraphicscontext3d_command_buffer_impl.cc(394)] CommandBufferProxy::Initialize failed.
+[0705/204058:ERROR:webgraphicscontext3d_command_buffer_impl.cc(413)] Failed to initialize command buffer.
+[0705/204058:ERROR:command_buffer_proxy_impl.cc(156)] Failed to initialize command buffer service.
+[0705/204058:ERROR:webgraphicscontext3d_command_buffer_impl.cc(394)] CommandBufferProxy::Initialize failed.
+[0705/204058:ERROR:webgraphicscontext3d_command_buffer_impl.cc(413)] Failed to initialize command buffer.
+[0705/204127:INFO:CONSOLE(0)] "Uncaught ReferenceError: callback is not defined", source:  (0)

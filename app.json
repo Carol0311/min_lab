@@ -1,0 +1,35 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/navigator/navigator"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "rgba(74,128,225,0.7)",
+    "navigationBarTitleText": "立早喵实验",
+    "navigationBarTextStyle":"white"
+  },
+    "tabBar": {
+      "color": "#35495e",
+      "height": "100px",
+      "fontSize": "1.2em",
+      "selectedColor": "white",
+      "borderStyle": "white",
+      "backgroundColor": "rgba(74,128,225,0.7)",
+      "list": [
+        {
+          "text": "推荐",
+          "pagePath": "pages/index/index",
+          "iconPath": "image/suggest.jpg",
+          "selectedIconPath": "image/suggest.jpg"
+        },
+        {
+          "text": "目录",
+          "pagePath": "pages/navigator/navigator",
+          "iconPath": "image/list.jpg",
+          "selectedIconPath": "image/list.jpg"
+        }
+      ]
+    }
+}

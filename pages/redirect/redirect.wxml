@@ -1,0 +1,2 @@
+<span style="font-size:24px;"><!--redirect.wxml-->    
+<view style="text-align:center"> {{title}} </view></span>

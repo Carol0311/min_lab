@@ -1,0 +1,8 @@
+<span style="font-size:24px;"><!--navigatort.wxml-->    
+<view style="text-align:center"> {{title}} </view></span>
+<view-group class="section tc">
+ <view wx:for="{{items}}">
+  <video src="{{item.src}}" controls></video>
+  <view class="videoName">{{item.name}}</view>
+ </view>
+</view-group>

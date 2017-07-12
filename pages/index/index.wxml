@@ -1,0 +1,10 @@
+<!--index.wxml-->
+<view class="container">
+<view class="totalContent"></view>
+<view-group>
+ <view wx:for="{{items}}">
+  <video src="{{item.src}}" controls></video>
+  <view class="videoName">{{item.name}}</view>
+ </view>
+</view-group>
+</view>
